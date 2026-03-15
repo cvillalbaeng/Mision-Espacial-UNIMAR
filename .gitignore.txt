@@ -1,0 +1,14 @@
+# Archivos compilados de Python (No subir)
+node_modules/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ignorar archivos de configuración local
+*.env
+*.log
+
+
+# Archivos basura del sistema operativo
+.DS_Store
+Thumbs.db
