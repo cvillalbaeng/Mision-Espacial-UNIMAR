@@ -1,3 +1,4 @@
+# Logica de los recursos
 def verificar_estado(energia, oxigeno, combustible):
     if energia <= 0 or oxigeno <= 0 or combustible <= 0:
         return False

@@ -4,20 +4,20 @@
 **Asignatura:** Programación I  
 **Profesor:** Ing. Richard Rivera
 
-## 📋 Descripción del Proyecto
+## 📋 Descripción del Proyecto:
 
 Simulador interactivo de comandos basado en texto donde el jugador asume el rol de comandante de una nave espacial. El objetivo es tomar decisiones estratégicas para gestionar recursos críticos (Energía, Oxígeno y Combustible) y sobrevivir a diversos eventos aleatorios en el espacio profundo hasta llegar al planeta Kepler.
 
 El proyecto está desarrollado bajo el paradigma de **Programación Estructurada y Modular**, dividiendo la lógica en 5 módulos independientes.
 
-## 👨‍💻 Integrantes del Equipo
+## 👨‍💻 Integrantes del Equipo:
 
 1. **Christian Villalba** - (Coordinador Principal/ main.py) (Lógica de Recursos/ recursos.py)
 2. **[Wilmer Maldonado]** - (Desarrollo de Eventos/ eventos.py)
 3. **[David González]** - (Desarrollo de Interfaz y Salidas/ interfaz.py)
 4. **[José Ruíz]** - (Desarrollo de Configuración/ configuracion.py)
 
-## ⚙️ Cómo jugar (Instrucciones de Ejecución)
+## ⚙️ Cómo jugar (Instrucciones de Ejecución):
 
 Para correr nuestra simulación de la misión espacial, solo necesitas tener Python instalado en tu computadora. No usamos ninguna librería externa, así que es muy fácil de arrancar:
 

@@ -5,6 +5,7 @@ import eventos
 import recursos
 
 
+# Funciones
 def reiniciar_juego():
     respuesta = input("¿Deseas intentar otra misión? (s/n): ").lower()
     if respuesta == "s":
