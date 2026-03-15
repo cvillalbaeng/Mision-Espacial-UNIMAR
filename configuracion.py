@@ -1,3 +1,4 @@
+# Configuración
 def pedir_nombre():
     nombre = input("Comandante, ingrese su nombre: ")
     return nombre
